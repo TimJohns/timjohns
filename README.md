@@ -1,7 +1,9 @@
 ## Hi, I'm Tim Johns 👋
 
 ### Tim’s Personal Engineering Principles
-These are some engineering principles and values that are important to me, personally. My hope is to find these in -- or, sometimes, introduce these into -- the engineering and engineering leadership communities in which I participate. Probably more importantly, these principles, like me, are a Work-In-Progress, and I will continue to refine and adapt these based on those same communities, and beyond, in perpetuity. I’m always curious and willing to learn, and for that same reason I’m more than willing to publicly publish and share these, and hope for feedback.
+These are some engineering principles and values that are important to me, personally. My hope is to find these in -- or, sometimes, introduce these into -- the engineering and engineering leadership communities in which I participate. Probably more importantly, these principles, like me, are a Work-In-Progress, and I will continue to refine and adapt these based on those same communities, and beyond, in perpetuity. I’m always curious and willing to learn, and for that same reason I’m more than willing to publicly publish and share these, and hope for feedback. 
+
+I won't claim any of these are really truly original - I picked ALL of them up, at least in concept, from listening to and observing folks much more capable than myself, and it's plausible there are one or more of these that I've indeed inadvertently plagerized. Any such plagerization is purely unintentional, and I am more than happy to provide attribution where I can.
 
 #### Principles Are Better Than Rules
 A principle is a framework for exercising judgement, and provides useful constraint while still supporting a high degree of empowerment. In contrast, a rule is typically an explicit dogmatic constraint that removes the need for judgment, and is often disempowering. Sometimes the only difference is subtle framing, or voice. For example, this value principle COULD have been stated as a rule, in the active voice: “Always use principles instead of rules”. That, however, wouldn’t allow for the reality that rules DO exist, and are often clearer or more efficient than the underlying principle. Rules exist, but principles are generally better. 
@@ -9,7 +11,7 @@ A principle is a framework for exercising judgement, and provides useful constra
 #### Simple Beats Clever
 In communication, and especially in code, despite some overlap, the nuanced differences between simple and clever are critical. Outwardly, they often appear the same, but they can also frequently work against each other, and the difference is often in the eye of the beholder. Opt for simple.
 
-#### Big deliverables get worked on. Small deliverables get done.
+#### Big Deliverables Get Worked On. Small Deliverables Get Done.
 One powerful effect of this principle is to help manage WIP (Work In Progress), where it applies to the state of concrete deliverables, like features and stories. WIP is not inherently 'bad', but choosing to be intentional by seeking ways to minimize WIP in aggregate brings focus and clarity. The uncertainty embodied by a Work In Progress "rolls up", and inversely, the certainty represented by "done" also rolls up -- it's much easier to visualize the overall state of a product or a service when the constituent components are either done or not, than when they are "in progress".
 
 #### Always Forward - As a Team
