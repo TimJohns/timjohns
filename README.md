@@ -1,7 +1,7 @@
 ## Hi, I'm Tim Johns 👋
 
-### What I Do
-I've tried a lot of roles, professionally, but I seem to excel at and find myself gravitating toward "Founding Engineer" roles. I'm that first hire or technical cofounder that needs to be a hardcore generalist with a high tolerance for risk and chaos, who can wrangle just enough order from that chaos to go from zero to one and be set up for much more.
+### What I Do, Professionally
+I've tried a lot of roles, professionally, but I seem to excel at and find myself gravitating toward "Founding Engineer" roles. I'm that first hire or technical cofounder hardcore generalist with a high tolerance for risk and chaos, who can wrangle just enough order from that chaos to go from zero to one and be set up for much more.
 
 In [The 5 stages of CTO & the CTO Career Chasm](https://calbucci.com/the-5-stages-of-cto--the-cto-career-chasm-9d7c04e2ae66), Marcelo Calbucci references the five stages of CTO from Chris Yeh and Reid Hoffman’s book Blitzscaling. I believe I have strong mastery of the "Family Stage CTO" role, and also do well as the "Tribe Stage CTO". Beyond that? Just not a focus area for me. 
 
