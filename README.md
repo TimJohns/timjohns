@@ -49,3 +49,13 @@ Move deliberately, without hesistation. There's a huge difference between a well
 
 #### Take Deliberate Action
 Where outcomes are not critical or are well-understood, it’s very efficient to rely on process, as well as rote, habit, and muscle memory. Where outcomes ARE critical or out-of-process - you can get most of the efficiency benefit without the risk, just by bringing the action under consideration to the forefront of your conscious mind by doing a buddy-check, saying it out loud, writing it down, or at least pausing, thinking, and taking a breath. Do that, and then take the action, deliberately and mindfully with your full attention. A typical example is live-editing a production configuration, or responding to a hostile emails. A handy corollary to this concept is to write a checklist for any such action with more than one or two steps, and then the ‘deliberate action’ is partially  pre-empted by the creation of the checklist itself, as well as efficiently executed by applying any additional ‘deliberate action checks’ to each step in a cookie-cutter fashion.
+
+#### Favor Outcomes over Output
+Detail TBD - Still working on this one.
+
+
+
+
+
+
+
