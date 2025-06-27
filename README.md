@@ -53,6 +53,12 @@ Where outcomes are not critical or are well-understood, it’s very efficient to
 #### Favor Outcomes over Output
 Detail TBD - Still working on this one.
 
+#### Other Ideas
+These aren't "principles", per se, at least not yet, but worth thinking about how they fit into the principles above
+##### Crawl, Walk, Run
+This is almost certainly a big part of "Slow is Smooth and Smooth is Fast", but it's also bigger than that and deserves some detail. Somewhere. Problably not in this README.
+##### See One, Do One, Teach One.
+Similar in nature to "Crawl, Walk, Run" this one is possibly a PART of "Slow is Smooth and Smooth is Fast", but probably not as closely related. I get a lot of mileage out of it as a learning technique, so I should probably write about it and link to it from here.
 
 
 
