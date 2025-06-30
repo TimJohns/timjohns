@@ -50,15 +50,28 @@ Move deliberately, without hesistation. There's a huge difference between a well
 #### Take Deliberate Action
 Where outcomes are not critical or are well-understood, it’s very efficient to rely on process, as well as rote, habit, and muscle memory. Where outcomes ARE critical or out-of-process - you can get most of the efficiency benefit without the risk, just by bringing the action under consideration to the forefront of your conscious mind by doing a buddy-check, saying it out loud, writing it down, or at least pausing, thinking, and taking a breath. Do that, and then take the action, deliberately and mindfully with your full attention. A typical example is live-editing a production configuration, or responding to a hostile emails. A handy corollary to this concept is to write a checklist for any such action with more than one or two steps, and then the ‘deliberate action’ is partially  pre-empted by the creation of the checklist itself, as well as efficiently executed by applying any additional ‘deliberate action checks’ to each step in a cookie-cutter fashion.
 
-#### Favor Outcomes over Output
-Detail TBD - Still working on this one.
-
+---
 #### Other Ideas
 These aren't "principles", per se, at least not yet, but worth thinking about how they fit into the principles above
+
+##### Favor Outcomes over Output
+Detail TBD - Still working on this one.
+
 ##### Crawl, Walk, Run
 This is almost certainly a big part of "Slow is Smooth and Smooth is Fast", but it's also bigger than that and deserves some detail. Somewhere. Problably not in this README.
+
 ##### See One, Do One, Teach One.
 Similar in nature to "Crawl, Walk, Run" this one is possibly a PART of "Slow is Smooth and Smooth is Fast", but probably not as closely related. I get a lot of mileage out of it as a learning technique, so I should probably write about it and link to it from here.
+
+##### Planning is Essential; Plans are Not
+Failing to plan is planning to fail - Alan Lakein
+A goal without a plan is just a wish - Antoine de Saint-Exupéry
+Plans are useless, but planning is essential - Dwight D. Eisenhower
+Everybody has a plan 'till they get punched in the mouth - Mike Tyson
+No plan survives first contact with the enemy - Helmuth von Moltke the Elder
+
+Counterpoint? Or related but orthognal concept?: A good plan violently executed now is better than a perfect plan executed next week.
+
 
 
 
