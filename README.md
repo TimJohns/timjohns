@@ -75,6 +75,11 @@ This saying is really the bare minimum, or a prerequisite of "Clean As You Go" -
 ##### Stop Starting and Start Finishing
 Essentially the same idea as "Don't Put it Down, Put it Away" - and the trick in both cases is not to let perfectionism and scope creep get in the way of declaring victory, finishing, and putting it away. 
 
+#### Other Management-Specific Ideas
+This is the wrong document for these, and I'll move them when I find a better place. Clearly these are also a work in progress.
+
+##### Catch Them Doing Something Right
+Never miss an opporunity to celebrate a win. I don't know what the right ratio is between celebratory feedback and course-correcting feedback, but make it higher. Relatedly, celebrate in public, but keep corrective feedback and discussions private. Use judgement to decide public or private setting for puzzling or neutral feedback and related discussions. But PUBLICLY CELEBRATE ALL THE WINS.
 
 
 
