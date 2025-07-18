@@ -62,13 +62,18 @@ This is almost certainly a big part of "Slow is Smooth and Smooth is Fast", but 
 Similar in nature to "Crawl, Walk, Run" this one is possibly a PART of "Slow is Smooth and Smooth is Fast", but probably not as closely related. I get a lot of mileage out of it as a learning technique, so I should probably write about it and link to it from here.
 
 ##### Planning is Essential; Plans are Not
-Failing to plan is planning to fail - Alan Lakein
-A goal without a plan is just a wish - Antoine de Saint-Exupéry
-Plans are useless, but planning is essential - Dwight D. Eisenhower
-Everybody has a plan 'till they get punched in the mouth - Mike Tyson
-No plan survives first contact with the enemy - Helmuth von Moltke the Elder
+- Failing to plan is planning to fail - Alan Lakein
+- A goal without a plan is just a wish - Antoine de Saint-Exupéry
+- Plans are useless, but planning is essential - Dwight D. Eisenhower
+- Everybody has a plan 'till they get punched in the mouth - Mike Tyson
+- No plan survives first contact with the enemy - Helmuth von Moltke the Elder
+- Counterpoint? Or related but orthognal concept?: A good plan violently executed now is better than a perfect plan executed next week.
 
-Counterpoint? Or related but orthognal concept?: A good plan violently executed now is better than a perfect plan executed next week.
+##### Don't Put it Down, Put it Away
+This saying is really the bare minimum, or a prerequisite of "Clean As You Go" - where "Clean As You Go" would be applied to gradually reduce tech debt, "Don't Put it Down, Put it Away" is intended to avoid certain kinds of tech debt and other waste in the first place - when you're done with something (even if it's imperfect), don't expect to pick it up again in the near term.
+
+##### Stop Starting and Start Finishing
+Essentially the same idea as "Don't Put it Down, Put it Away" - and the trick in both cases is not to let perfectionism and scope creep get in the way of declaring victory, finishing, and putting it away. 
 
 
 
