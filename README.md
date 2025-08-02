@@ -75,6 +75,11 @@ This saying is really the bare minimum, or a prerequisite of "Clean As You Go" -
 ##### Stop Starting and Start Finishing
 Essentially the same idea as "Don't Put it Down, Put it Away" - and the trick in both cases is not to let perfectionism and scope creep get in the way of declaring victory, finishing, and putting it away. 
 
+##### Demos and Dogfood
+*Note: Does this roll up into "Build in Public"?*
+The most relevant work product artifact is working code in production. Everything else is overhead. Some overhead in the form of other deliverables and written artifacts may be necessary for principle, legal, or other reasons, and may indeed be necessary to GET working code into production, but if there's no eventual working code in production: those turn to waste. By demoing frequently and broadly, and by [eating our down dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food), we emphasize this intent to go to production, tighten feedback loops, and reduce wasted overhead.
+
+
 #### Other Management-Specific Ideas
 This is the wrong document for these, and I'll move them when I find a better place. Clearly these are also a work in progress.
 
