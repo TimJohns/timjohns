@@ -1,22 +1,22 @@
-## Hi, I'm Tim Johns 👋
+## Hi, I'm [Tim Johns](https://timjohns.com) 👋
 
 ### What I Do, Professionally
-I've tried a lot of roles, professionally, but I seem to excel at and find myself gravitating toward "Founding Engineer" roles. I'm that first hire or technical cofounder hardcore generalist with a high tolerance for risk and chaos, who can wrangle just enough order from that chaos to go from zero to one and be set up for much more.
+I'm primarily a strategic thinker and culture-builder, but I'm always excited to roll up my sleeves and go deep technical hands-on to execute. I'm a technical generalist with a high tolerance for risk and chaos. I seem to excel at and find myself gravitating toward "Founding Engineer" roles. I'm currently a Senior Engineering Manager at [doxo](https://doxo.com), where I lead a small team of awesome front-end engineers.
 
-In [The 5 stages of CTO & the CTO Career Chasm](https://calbucci.com/the-5-stages-of-cto--the-cto-career-chasm-9d7c04e2ae66), Marcelo Calbucci references the five stages of CTO from Chris Yeh and Reid Hoffman’s book Blitzscaling. I believe I have strong mastery of the "Family CTO" role, and also do well as the "Tribe CTO". I'm not currently in a CTO role, but my current role is an excellent opportunity to do some very intentional growth mindset focus work, to develop those key specific knowledge and skills that I have identified that will help me be a great Village CTO.
+In [The 5 stages of CTO & the CTO Career Chasm](https://calbucci.com/the-5-stages-of-cto--the-cto-career-chasm-9d7c04e2ae66), Marcelo Calbucci references the five stages of CTO from Chris Yeh and Reid Hoffman’s book Blitzscaling. I feel like I have mastery of the "Family CTO" role, and also do well as the "Tribe CTO". I'm not currently in a CTO role, but my current role *is* an *excellent* opportunity to grow some key skills that I have identified that will help me be a great Village CTO.
 
 ### Tim’s Personal Engineering Principles
-These are some engineering principles and values that are important to me, personally. My hope is to find these in -- or, sometimes, introduce these into -- the engineering and engineering leadership communities in which I participate. Also, important disclaimer: These are my *personal* values, and at are not necessarily those of my employer. I don't speak for my employer, and aligning one's own principles and values with the principles and values of any given employer is arguably always going to be a bit of a work in progress, in any case.
+These are some engineering principles and values that are important to me, personally. My hope is to find these in, or introduce these into, the engineering and engineering leadership communities in which I participate. Also, important disclaimer: These are my *personal* values, and are not necessarily those of my employer. I don't speak for my employer, and besides, aligning one's own principles with those of any given employer should form a venn diagram with a ton of overlap -- but unless you joined a cult, it generally won't be a perfect circle. 
 
-Probably more importantly, these principles themselves are a work in progress. I will continue to refine and adapt these based on what I learn, in perpetuity. I’m always curious and willing to learn, and for that same reason I’m more than willing to publicly publish and share these, and I ask for your feedback. If you see something here I can improve, or something I'm missing - please, by all means, reach out! 
+These principles are a work in progress. I will continue to refine and adapt these based on what I learn. I’m always curious and willing to learn, and for that same reason I’m more than willing to publicly publish and share these, and I ask for your feedback. If you see something here I can improve, or something I'm missing - reach out! 
 
-Finally, I won't claim any of these are really truly original - I picked ALL of them up, at least in concept, from listening to and observing folks  more capable than myself, and it's certainly plausible there are one or more of these that I've indeed inadvertently plagerized. Any such plagerization is purely unintentional, and I am more than happy to fix that attribution whenever I can, as well as dig deeper. If you recognize something here but don't see a reference to the original - please let me know.
+I don't claim any of these are really truly original - I picked ALL of them up, at least in concept, from listening to and observing folks more capable than myself, and it's certainly plausible there are one or more of these that I've indeed inadvertently straight-up plagerized. I am more than happy to give attribution whenever I can. If you recognize something here but don't see proper attribution, please let me know.
 
 #### Principles Are Better Than Rules
-A principle is a framework for exercising judgement, and provides useful constraint while still supporting a high degree of empowerment. In contrast, a rule is typically an explicit dogmatic constraint that removes the need for judgment, and is often disempowering. Sometimes the only difference is subtle framing, or voice. For example, this value principle COULD have been stated as a rule, in the active voice: “Always use principles instead of rules”. That, however, wouldn’t allow for the reality that rules DO exist, and are often clearer or more efficient than the underlying principle. Rules exist, but principles are generally better. 
+A principle is a framework for exercising judgement, and provides useful constraint while still supporting a high degree of empowerment. In contrast, a rule is typically an explicit dogmatic statement that removes the need for judgment, and is often disempowering. Sometimes the only difference is subtle framing, or voice. For example, this value principle COULD have been stated as a rule, in the active voice: “Always use principles instead of rules”. That, however, wouldn’t allow for the reality that rules DO exist, and are often clearer or more efficient than the underlying principle. Rules exist, but principles are generally better. 
 
 #### Simple Beats Clever
-In communication, and especially in code, despite some overlap, the nuanced differences between simple and clever are critical. Outwardly, they often appear the same, but they can also frequently work against each other, and the difference is often in the eye of the beholder. Opt for simple.
+In communication, and especially in code, the nuanced difference between simple and clever is critical. Outwardly, they often appear the same, and sometimes there's overlap - but they also frequently work against each other, and the difference is often in the eye of the beholder. Simple solutions to complex problems are hard to find, but . Clever solutions to complex problems are easy to find but 
 
 #### Big Deliverables Get Worked On. Small Deliverables Get Done.
 One powerful effect of this principle is to help manage WIP (Work In Progress), where it applies to the state of concrete deliverables, like features and stories. WIP is not inherently 'bad', but choosing to be intentional by seeking ways to minimize WIP in aggregate brings focus and clarity. The uncertainty embodied by a Work In Progress "rolls up", and inversely, the certainty represented by "done" also rolls up -- it's much easier to visualize the overall state of a product or a service when the constituent components are either done or not, than when they are "in progress".
@@ -48,46 +48,7 @@ Move deliberately, without hesistation. There's a huge difference between a well
 #### Take Deliberate Action
 Where outcomes are not critical or are well-understood, it’s very efficient to rely on process, as well as rote, habit, and muscle memory. Where outcomes ARE critical or out-of-process - you can get most of the efficiency benefit without the risk, just by bringing the action under consideration to the forefront of your conscious mind by doing a buddy-check, saying it out loud, writing it down, or at least pausing, thinking, and taking a breath. Do that, and then take the action, deliberately and mindfully with your full attention. A typical example is live-editing a production configuration, or responding to a hostile emails. A handy corollary to this concept is to write a checklist for any such action with more than one or two steps, and then the ‘deliberate action’ is partially  pre-empted by the creation of the checklist itself, as well as efficiently executed by applying any additional ‘deliberate action checks’ to each step in a cookie-cutter fashion.
 
----
-#### Other Ideas
-These aren't "principles", per se, at least not yet, but worth thinking about how they fit into the principles above
 
-##### Favor Outcomes over Output
-Detail TBD - Still working on this one.
-
-##### Crawl, Walk, Run
-This is almost certainly a big part of "Slow is Smooth and Smooth is Fast", but it's also bigger than that and deserves some detail. Somewhere. Problably not in this README.
-
-##### See One, Do One, Teach One.
-Similar in nature to "Crawl, Walk, Run" this one is possibly a PART of "Slow is Smooth and Smooth is Fast", but probably not as closely related. I get a lot of mileage out of it as a learning technique, so I should probably write about it and link to it from here.
-
-##### Planning is Essential; Plans are Not
-- Failing to plan is planning to fail - Alan Lakein
-- A goal without a plan is just a wish - Antoine de Saint-Exupéry
-- Plans are useless, but planning is essential - Dwight D. Eisenhower
-- Everybody has a plan 'till they get punched in the mouth - Mike Tyson
-- No plan survives first contact with the enemy - Helmuth von Moltke the Elder
-- Counterpoint? Or related but orthognal concept?: A good plan violently executed now is better than a perfect plan executed next week.
-
-##### Don't Put it Down, Put it Away
-This saying is really the bare minimum, or a prerequisite of "Clean As You Go" - where "Clean As You Go" would be applied to gradually reduce tech debt, "Don't Put it Down, Put it Away" is intended to avoid certain kinds of tech debt and other waste in the first place - when you're done with something (even if it's imperfect), don't expect to pick it up again in the near term.
-
-##### Stop Starting and Start Finishing
-Essentially the same idea as "Don't Put it Down, Put it Away" - and the trick in both cases is not to let perfectionism and scope creep get in the way of declaring victory, finishing, and putting it away. 
-
-##### Demos and Dogfood
-*Note: Does this roll up into "Build in Public"?*
-The most relevant work product artifact is working code in production. Everything else is overhead. Some overhead in the form of other deliverables and written artifacts may be necessary for principle, legal, or other reasons, and may indeed be necessary to GET working code into production, but if there's no eventual working code in production: those turn to waste. By demoing frequently and broadly, and by [eating our down dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food), we emphasize this intent to go to production, tighten feedback loops, and reduce wasted overhead.
-
-
-#### Other Management-Specific Ideas
-This is the wrong document for these, and I'll move them when I find a better place. Clearly these are also a work in progress.
-
-##### Catch Them Doing Something Right
-Never miss an opporunity to celebrate a win. I don't know what the right ratio is between celebratory feedback and course-correcting feedback, but make it higher. Relatedly, celebrate in public, but keep corrective feedback and discussions private. Use judgement to decide public or private setting for puzzling or neutral feedback and related discussions. But PUBLICLY CELEBRATE ALL THE WINS.
-
-##### Mitigate Risks. But Take Them
-Risk exists to some degree in nearly every decision, action, or inaction, and by itself is not a reason to avoid making decisions and taking action -- but it also can't be ignored. Identify and communicate risks, weigh the potential downside agains the potential upside, control what is economically feasible, communicate more, and then go for it. 
 
 
 
